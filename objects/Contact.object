@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <compactLayouts>
+        <fullName>Lightning_Volunteer</fullName>
+        <fields>Name</fields>
+        <fields>AccountId</fields>
+        <fields>Volunteer_Average_Rating__c</fields>
+        <fields>Number_of_wishes_granted__c</fields>
+        <fields>Volunteer_Status__c</fields>
+        <fields>Alerts__c</fields>
+        <label>Lightning Volunteer</label>
+    </compactLayouts>
+</CustomObject>
